@@ -1,9 +1,9 @@
 ---
-name: New Story
+name: User Story
 about: This is for the new stories
 title: ''
 labels: ''
-assignees: ''
+assignees: Megido1928
 
 ---
 
